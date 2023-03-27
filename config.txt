@@ -1,3 +1,0 @@
-# 测试
-username=admin
-password=abcdef@123456
